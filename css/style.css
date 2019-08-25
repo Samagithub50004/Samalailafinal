@@ -1,0 +1,13 @@
+body{
+  background-image: url("../plant6.jpg");
+  color:rgba(0,61,48);
+  font-style: italic;
+  font-weight: arial;
+  margin:0px 17%;
+}
+.navbar.bg-light {
+    background-color: #8b93e8 !important;
+}
+.text-center{
+  text-align: center;
+}
